@@ -155,11 +155,10 @@ div.main {
   .card{
     max-width: 100%;
     margin-top: 20px;
-    max-height: 30px
     display: flex;
   }
   .card > img {
-    max-width: 189px;
+    max-width: 126px;
     height: auto;
     border-radius: 5px 0px 0px 5px;
   }
